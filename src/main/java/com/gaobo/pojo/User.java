@@ -10,5 +10,6 @@ public class User {
 
     private String name;
     private Date birthday;
+    private int age; //用户的年龄
 
 }
