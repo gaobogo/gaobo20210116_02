@@ -6,6 +6,7 @@ package com.gaobo.pojo;
  */
 public class User {
 
-    private String name;
+    private String name; //用户的姓名
+    private int age; //用户的年龄
 
 }
